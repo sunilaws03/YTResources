@@ -4,7 +4,7 @@ Create an S3 bucket with Python CDK
 ############################
 We will start by opening your cloud9
 
-1. Open cloud9
+1. Open cloud shell
     cdk --version
     2.179.1
 
